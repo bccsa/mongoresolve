@@ -1,1 +1,1 @@
-export { MongoResolve } from './MongoResolve';
+export { MongoResolve } from './MongoResolve.js';

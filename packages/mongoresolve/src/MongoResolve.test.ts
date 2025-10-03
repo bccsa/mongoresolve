@@ -1,4 +1,4 @@
-import { MongoResolve } from './MongoResolve';
+import { MongoResolve } from './MongoResolve.js';
 
 describe('MongoResolve', () => {
     describe('constructor', () => {
